@@ -1,0 +1,3 @@
+[submodule "third_party/mlenergy"]
+	path = third_party/mlenergy
+	url = https://github.com/ml-energy/leaderboard
