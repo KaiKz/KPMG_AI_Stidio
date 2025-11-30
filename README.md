@@ -283,23 +283,13 @@ The notebooks include several helpful visualizations:
 
 > This is a template section; replace the placeholder names/roles with your actual team members and what each person did.
 
-- **Member A – ML.ENERGY Modeling & Analysis**
+- **Kai – ML.ENERGY Modeling & Analysis**
   - Parsed and cleaned the ML.ENERGY subset into `mlenergy_df`.
   - Engineered the `Energy (J)` metric and Low/Medium/High labels.
   - Built and evaluated the logistic regression classifier; generated confusion matrices and correlation heatmaps.
 
-- **Member B – Economic Index Data & Baselines**
+- **Jinso/Amanda – Economic Index Data & Baselines**
   - Wrote the preprocessing notebooks for the Anthropic Economic Index.
   - Performed data-quality checks and exploratory plots of interaction/task distributions.
   - Implemented or prototyped baseline models on the Economic Index (if applicable).
-
-- **Member C – Data Pipelines & Corporate Carbon Reports**
-  - Implemented `scripts/fetch_anthropic_econ_index.py`, `export_mlenergy_snapshot.py`, and `fetch_corporate_carbon.py`.
-  - Organized the repo’s data directory structure and documented ML.ENERGY provenance.
-  - Downloaded and staged the Google and Microsoft environmental reports for future parsing.
-
-- **Member D – Project Integration & Reporting**
-  - Coordinated how the datasets fit together conceptually (workload → task → corporate emissions).
-  - Drafted this README and any accompanying slides/report.
-  - Helped interpret modeling results and propose the next steps for future work.
 
