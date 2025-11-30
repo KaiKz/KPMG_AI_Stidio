@@ -281,8 +281,6 @@ The notebooks include several helpful visualizations:
 
 ## Individual Contributions
 
-> This is a template section; replace the placeholder names/roles with your actual team members and what each person did.
-
 - **Kai – ML.ENERGY Modeling & Analysis**
   - Parsed and cleaned the ML.ENERGY subset into `mlenergy_df`.
   - Engineered the `Energy (J)` metric and Low/Medium/High labels.
